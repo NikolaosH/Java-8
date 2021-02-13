@@ -1,4 +1,4 @@
-package strategy.pattern.model;
+package pattern.behavioral.strategy.model;
 
 public class Cat extends Animal {
 
@@ -12,4 +12,5 @@ public class Cat extends Animal {
 		
 		super(animalName, flyBehavior);
 	}
+	
 }

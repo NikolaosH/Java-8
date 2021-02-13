@@ -1,4 +1,4 @@
-package strategy.pattern.model;
+package pattern.behavioral.strategy.model;
 
 import java.util.Objects;
 
